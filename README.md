@@ -1,2 +1,14 @@
 # loginhuatihui-archive
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 维护文件
+
+- 静态页面保存在根目录
+- README 提供简要说明
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
